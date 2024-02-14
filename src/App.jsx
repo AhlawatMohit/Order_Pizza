@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import "./App.css";
 import Home from "./components/Home";
 import Header from "./components/Header";
-import Base from "./components/base";
+import Base from "./components/Base";
 import Topping from './components/Topping';
 import Order from './components/Order';
 import { useState } from 'react';
